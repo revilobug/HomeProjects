@@ -1,3 +1,9 @@
+"""
+Making a instagram follower analytics bot
+Using this to try and boost followers on a joint account
+Version: Spring2021
+"""
+
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.wait import WebDriverWait 
