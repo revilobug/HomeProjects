@@ -256,4 +256,4 @@ async def reqauth(ctx):
             speakmode = False
 
 #use token to run program
-client.run('Nzk2MjMzNjExMzcyMDAzMzM4.X_U8Vg.y4C4gSoGi3ovO_Ed-sNcdijyYXw')
+client.run('Nzk2MjMzNjExMzcyMDAzMzM4.X_U8Vg.a95KIgFJhX6NLlz18xaDmA2cbvA')
